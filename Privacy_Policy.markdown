@@ -1,4 +1,3 @@
-```rmd
 ---
 title: "Privacy Policy"
 date: "August 26, 2025"
@@ -62,4 +61,3 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 ## 8. Contact Us
 
 If you have questions or concerns about this Privacy Policy, please reach out to: [info@onlinegrader.com](mailto:info@onlinegrader.com)
-```
