@@ -1,4 +1,3 @@
-```rmd
 ---
 title: "Terms and Conditions"
 date: "August 26, 2025"
@@ -60,4 +59,3 @@ We may update these Terms periodically. Continued use of the site after changes 
 ## 10. Contact Us
 
 For questions or support, please contact us at: [info@onlinegrader.com](mailto:info@onlinegrader.com)
-```
